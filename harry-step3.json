@@ -1,7 +1,9 @@
 {
+  
   "species": "human",
   "name": "Harry",
   "surname": "Potter",
-  "house": "Gryffindor"
+  "house": "Gryffindor",
+ "dateOfBirth": "31-07-1980",
   "wand": { "wood": "holly", "core": "phoenix feather", "length": "11 inches" },
 }
