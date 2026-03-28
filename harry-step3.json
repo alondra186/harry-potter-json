@@ -5,5 +5,5 @@
   "surname": "Potter",
   "house": "Gryffindor",
  "dateOfBirth": "31-07-1980",
-  "wand": { "wood": "holly", "core": "phoenix feather", "length": "11 inches" },
+  "wand": { "wood": "holly", "core": "phoenix feather", "length": "11 inches" }
 }
