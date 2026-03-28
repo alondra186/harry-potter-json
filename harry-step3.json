@@ -1,0 +1,7 @@
+{
+  "species": "human",
+  "name": "Harry",
+  "surname": "Potter",
+  "house": "Gryffindor"
+  "wand": { "wood": "holly", "core": "phoenix feather", "length": "11 inches" },
+}
